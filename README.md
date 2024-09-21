@@ -1,4 +1,4 @@
-Pink Floyd Song Info - Client-Server Project
+Pink Floyd - Client-Server Project
 Project Overview
   This project implements a client-server model that allows clients to request information about Pink Floyd songs stored in a data file. 
   The communication between the client and server is handled using Python's sockets library.
